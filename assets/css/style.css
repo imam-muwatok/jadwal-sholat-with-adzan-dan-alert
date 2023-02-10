@@ -1,0 +1,19 @@
+
+        body {
+            background-image: url('https://source.unsplash.com/720x480?kabah');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
+
+        .card {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            border-radius: 12px;
+        }
+
+        #clock {
+            color: rgb(255, 0, 98);
+        }
+
+        
